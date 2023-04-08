@@ -79,4 +79,10 @@
   .front-face {
     transform: rotateY(180deg);
   }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
   
