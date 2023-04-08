@@ -16,7 +16,7 @@
   .column {
     float: left;
     width: 50%;
-    padding:30px;
+    
     position:relative;
   
   }
@@ -27,6 +27,33 @@
     display: table;
     clear: both;
   }
+
+  p {
+    color:black;
+    font-family: 'Permanent Marker', sans-serif;
+    font-size: 30px;
+    text-shadow:
+        0.07em 0 yellow,
+        0 0.07em yellow,
+        -0.07em 0 yellow,
+        0 -0.07em yellow;
+    text-align: center;
+}
+
+.title {
+    color: black;
+    font-family: 'Permanent Marker', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin-top: auto;
+    text-shadow:
+        0.07em 0 yellow,
+        0 0.07em yellow,
+        -0.07em 0 yellow,
+        0 -0.07em yellow;
+
+}
   
   .game-name {
     color: white;
