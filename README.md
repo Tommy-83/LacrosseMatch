@@ -80,5 +80,22 @@
 * Under "Source", click the dropdown called "None" and select "Master Branch"
 * After the page automatically refresh scroll down again on "GitHub Pages" and I will see live link to the published site.
 
+## Cloning Repository:
+* Local Clone
+* Log in to GitHub and locate GitHub Repository
+* At the top of repository click on Code
+* From the dropdown menu under HTTPS copy the link
+* Now on the IDE create a directory where you want to make the clone
+* Type git clone and paste the link that you copy from step 3
+
+## Forking repo:
+* By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
+* Log in to GitHub and locate the GitHub Repository
+* At the top of the Repository (not top of page) just above the "Settings" Button on - - the menu, locate the "Fork" Button.
+* You should now have a copy of the original repository in your GitHub account.
+
+## Credits
+* Massive Thank You to Ben my tutor.
+
 
 
