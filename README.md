@@ -47,3 +47,10 @@
 
 3. Lighthouse:
 * ![Lighthouse](/assets/img/Lighthouse.png)
+
+# Technology, Libraries and Programes used:
+
+## Languages Used;
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
