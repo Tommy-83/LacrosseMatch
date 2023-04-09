@@ -22,3 +22,6 @@
 * Wireframes were used with free version of [Figma](https://www.figma.com/?fuid=)
 1. Full Size Screen:
     * ![Full Screen Wireframe](/assets/img/FullScreen.png)
+
+2. Smaller Size Screen:
+    * ![Small Size Screen](/assets/img/SmallScreen.png)
