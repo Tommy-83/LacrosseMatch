@@ -21,4 +21,4 @@
 ## Wireframes
 * Wireframes were used with free version of [Figma](https://www.figma.com/?fuid=)
 1. Full Size Screen:
-    * ![Full Screen Wireframe][LacrosseMatch/assets/img/FullScreen.png]
+    * ![Full Screen Wireframe](/assets/img/FullScreen.png)
