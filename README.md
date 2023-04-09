@@ -34,3 +34,16 @@
 
 2. Smaller screen:
     * ![Smaller Screen](/assets/img/phone.png)
+
+## Testing:
+* All testing done with [W3C Markup Validation Service](https://validator.w3.org/) as well as [Lighthouse Developent](https://developer.chrome.com/docs/lighthouse/overview/)
+
+## Results:
+1. HTML:
+* ![HTML](/assets/img/HTMLchecker.png)
+
+2. CSS:
+* ![CSS](/assets/img/CSS.png)
+
+3. Lighthouse:
+* ![Lighthouse](/assets/img/Lighthouse.png)
