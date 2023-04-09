@@ -54,3 +54,13 @@
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+## Online Resources:
+* [Code-Sketch](https://github.com/code-sketch/memory-game)
+* [Coding Nepal](https://www.codingnepalweb.com/build-memory-card-game-html-javascript/)
+* [Stack Overflow](https://stackoverflow.com/questions/12206014/css-text-shadow)
+* [Code With Burt](https://www.youtube.com/watch?v=_T82DJ6IqcQ)
+* [Quora](https://www.quora.com/)
+* [w3schools](https://www.w3schools.com/)
+* [Google Fonts](https://fonts.google.com/)
+
