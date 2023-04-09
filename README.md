@@ -25,3 +25,12 @@
 
 2. Smaller Size Screen:
     * ![Small Size Screen](/assets/img/SmallScreen.png)
+
+## Features:
+### The Game is responsive on all devices:
+
+1. Pc Screen:
+    * ![Pc screen](/assets/img/PC.png)
+
+2. Smaller screen:
+    * ![Smaller Screen](/assets/img/phone.png)
