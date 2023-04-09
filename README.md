@@ -19,3 +19,8 @@
 * All images used, PLL logo as well as team logos are the property of Premier Lacrosse League.
 
 ## Wireframes
+* Wireframes were used with free version of [Figma](https://www.figma.com/?fuid=)
+1. Full Size Screen:
+    * ![Full Screen Wireframe][/workspace/LacrosseMatch/assets/img/FullScreen.png]
+
+[def]: assets/img/FullScreen.png
