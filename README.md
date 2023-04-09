@@ -64,3 +64,21 @@
 * [w3schools](https://www.w3schools.com/)
 * [Google Fonts](https://fonts.google.com/)
 
+## Inception:
+* This project was created using Code Institute template from GitHub:
+* In order to push this project from GitPod to Github I used a set of git commands on the terminal
+* git status - Check the status of the repository and see if there were any changes in files
+* git add . - Add the files that were modified/created, so we can commit it
+* git commit -m "message for commit" - Commits all the changes
+* git push - Pushes all committed versions to GitHub
+
+## Deployment on GitHub Pages:
+* The project was deployed to GitHub Pages using the following steps:
+* Log in to GitHub and locate GitHub Repository
+* At the top of repository click on "Settings"
+* Once you are in settings scroll down to "GitHub Pages"
+* Under "Source", click the dropdown called "None" and select "Master Branch"
+* After the page automatically refresh scroll down again on "GitHub Pages" and I will see live link to the published site.
+
+
+
