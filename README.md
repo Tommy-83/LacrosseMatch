@@ -76,6 +76,7 @@
 * [Quora](https://www.quora.com/)
 * [w3schools](https://www.w3schools.com/)
 * [Google Fonts](https://fonts.google.com/)
+* [Wikipedia](https://www.wikipedia.org/)
 
 ## Inception:
 * This project was created using Code Institute template from GitHub:
