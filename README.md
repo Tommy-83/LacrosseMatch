@@ -9,6 +9,7 @@
 * To introduce the users to all the teams that are taking part in Premier Lacrosse League seaso.
 * Get players interested in teams and hopefully find the one they love and will eventually follow.
 * Get users interested in the game of Lacrosse and hopefylly get them involved in the sport.
+* To give sport fans the possibility to enjoy a bit of a Lacrosse fun on their screens and there is not many possibilities to do so in the gaming world.
 
 ## (UX) User Experiance
 * Simple access and straight forward rules will allow the user to get in and out quickly, starting and finishing game without long loading times or delays.
@@ -22,6 +23,9 @@
 * Bright and fun colours were used, in order to atract the usrers attention.
 * Font used is Permanent Marker
 * All images used, PLL logo as well as team logos are the property of Premier Lacrosse League.
+* The main design aim was to make it an easy accessible game which can be used on the go.
+* Logos being main feature of the game allow users of all ages to have fun with it. 
+* Bright colours were chosen in order to attract the younger users who may not hear about the game before but can enjoy picture matching.
 
 ## Wireframes
 * Wireframes were used with free version of [Figma](https://www.figma.com/?fuid=)
