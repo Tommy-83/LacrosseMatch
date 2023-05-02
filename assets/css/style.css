@@ -19,25 +19,25 @@
     position: relative;
     border: black;
     border-width: 4px;
+    margin-bottom: 10%;
     
   
   }
 
   .btn {
-    position: fixed;
+    position: relative;
     bottom: 0px;
-    margin-left: 200%;
-    margin-right: 200%;
+    
     font-family: 'Permanent Marker', sans-serif;
-    font-size: 48;
     color: black;
     text-shadow:
         0.07em 0 yellow,
         0 0.07em yellow,
         -0.07em 0 yellow,
         0 -0.07em yellow;
-    background-color: navy;
-    border-color: black;
+    background-color: #12bddb;
+    border-color:#12bddb;
+    width: 100%;
   
     
   }
@@ -47,6 +47,12 @@
     content: "";
     display: table;
     clear: both;
+  }
+
+  h1 {
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 
   p {
@@ -60,6 +66,7 @@
         0 -0.07em yellow;
     text-align: center;
     margin-left: 5%;
+    margin-right: 5%;
 }
 
 .title {
