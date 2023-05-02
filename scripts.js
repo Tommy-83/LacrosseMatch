@@ -48,8 +48,7 @@ function unflipCards() {
     setTimeout(() => {
       firstCard.classList.remove('flip');
       secondCard.classList.remove('flip');
-  
-      resetBoard();
+        resetBoard();
     }, 1000);
   }
   
