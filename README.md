@@ -12,6 +12,11 @@
 
 ## (UX) User Experiance
 * Simple access and straight forward rules will allow the user to get in and out quickly, starting and finishing game without long loading times or delays.
+* The user is welcomed with a description of the game and how to play it.
+* There are two buttons added, between the description and the game. One linking with the history page giving the user inside into Lacrosse and 
+ its history. The second button is allowing user to reset the game and start again.
+* Every time user matches the cards the alret will pop up on the screen with a "It's a match!" message.
+
 
 ## Design
 * Bright and fun colours were used, in order to atract the usrers attention.
@@ -37,6 +42,10 @@
 
 ## Testing:
 * All testing done with [W3C Markup Validation Service](https://validator.w3.org/) as well as [Lighthouse Developent](https://developer.chrome.com/docs/lighthouse/overview/)
+* Website was tested on all screen sizes. Starting with a desktop Pc, through a tablet and finishing on a small screen, Apple SE.
+* All the buttons on the screen were testing and are responsive.
+* "History of Lacrosse" button links the game with Wiipedia website describing Lacrosse and its history.
+* "game Reset" button works every time on all devices successfully reseting the game to its beginning.
 
 ## Results:
 1. HTML:
